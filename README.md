@@ -1,2 +1,0 @@
-# venon.oi
-DesignVenon
